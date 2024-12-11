@@ -11,7 +11,7 @@ A demonstration of our implementatin has been submitted for your conveneince.
 
 The libaries are imported at the top of the notebook.
 
-The file "submit.ipynb" is out final notebook containing all of our code and resulting graphs.
+The file "final_submit.ipynb" is out final notebook containing all of our code and resulting graphs.
 
 The data has been included as well
 
